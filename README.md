@@ -1,1 +1,1 @@
-# Merge Sort Project
+# Project 2 - Merge Sort
