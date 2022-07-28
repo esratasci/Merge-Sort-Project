@@ -18,3 +18,5 @@ Third Stage:
 
 #### 2. Write the Big-O notation.  
 Divide Stages -> O(logn), Merge Stages -> O(n) => Big-O notation: O(nlogn)
+
+www.patika.dev 
